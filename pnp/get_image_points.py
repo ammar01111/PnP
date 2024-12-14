@@ -1,6 +1,6 @@
 import cv2
 
-image = cv2.imread("C:/Users/harsh/Desktop/gate images/img1_Color.png")
+image = cv2.imread("C:/Users/PC/Desktop/Pnp/captured_frame4.jpg")
 
 
 selected_points = []
